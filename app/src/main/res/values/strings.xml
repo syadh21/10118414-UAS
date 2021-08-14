@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UAS AKB 10118414</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    //Headings
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    //Description
+    <string name="desc_one">10118414 Hanif Irsyad Azhar IF10</string>
+    <string name="desc_two">This application is about the profile of tourist attractions in Cimahi</string>
+    <string name="desc_three">Profile, Tempat Wisata, Maps</string>
+    <string name="desc_fourth">Tugas UAS Genap 2021 AKB PROJECT - 10118414</string>
+</resources>
